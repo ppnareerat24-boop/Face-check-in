@@ -3,7 +3,7 @@
 // Camera access (getUserMedia) requires a secure context; http://localhost qualifies,
 // so we bind to 127.0.0.1 and the browser will allow the webcam.
 
-const http = require('http');
+//const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
