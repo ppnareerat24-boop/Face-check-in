@@ -1,6 +1,6 @@
 // Face Check-in backend — JSON-file store, open CORS.
 
-const http = require('http');
+//const http = require('http');
 const fs = require('fs');
 
 const PORT = parseInt(process.env.PORT || '8000', 10);
